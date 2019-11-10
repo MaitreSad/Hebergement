@@ -27,4 +27,4 @@ bot.on('guildMemberRemove', member => {
     }).catch(console.error)
 });
 
-bot.login(process.even.TOKEN) //tokenn
+bot.login('NjQxNjI5MjE5OTk0MDc1MTM4.Xce_VA.Bbwd9jYZyKQVjN8gG6XIYREKQK0') 
